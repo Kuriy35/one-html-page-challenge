@@ -37,4 +37,4 @@ jobs:
 
     - name: Open deployed page
       run: |
-        echo "<script>window.open('https://kuriy35.github.io/one-html-page-challenge');</script>"
+        echo "<script>window.location.href = 'https://kuriy35.github.io/one-html-page-challenge';</script>"
