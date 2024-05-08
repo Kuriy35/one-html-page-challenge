@@ -37,4 +37,4 @@ jobs:
 
     - name: Open deployed page
       run: |
-        echo "<script>window.open('https://your-username.github.io/your-repository-name');</script>"
+        echo "<script>window.open('https://kuriy35.github.io/one-html-page-challenge');</script>"
